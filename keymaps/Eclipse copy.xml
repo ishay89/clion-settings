@@ -1,0 +1,8 @@
+<keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="CMake.ReloadCMakeProject">
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+  </action>
+  <action id="ParameterInfo">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
+</keymap>
