@@ -1,14 +1,15 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="highlightColorEnabled" value="true" />
     <option name="isContrastMode" value="true" />
     <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
     <option name="upperCaseButtons" value="false" />
     <option name="useMaterialIcons" value="false" />
-    <option name="rightTreeIndent" value="6" />
+    <option name="settingsSelectedTab" value="6" />
     <option name="selectedTheme" value="ONE_DARK" />
-    <option name="userId" value="23400e1e:16c71669633:-8000" />
+    <option name="userId" value="-48fe9358:16d2054f035:-8000" />
     <option name="version" value="4.5.1" />
   </component>
 </application>
