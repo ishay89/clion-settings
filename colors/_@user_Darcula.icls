@@ -1,9 +1,9 @@
 <scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2019-08-08T16:24:05</property>
+    <property name="created">2019-11-26T12:14:46</property>
     <property name="ide">CLion</property>
-    <property name="ideVersion">2019.2.0.0</property>
-    <property name="modified">2019-11-24T15:17:51</property>
+    <property name="ideVersion">2019.2.5.0.0</property>
+    <property name="modified">2019-11-26T12:24:21</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
@@ -18,8 +18,7 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="ff6347" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72a038" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
-    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="91b859" />
-    <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="979fad" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="629755" />
     <option name="FILESTATUS_MERGED" value="61aeef" />
     <option name="FILESTATUS_MODIFIED" value="e2c08d" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="57b6c2" />
